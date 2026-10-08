@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+calibration/local/
+__pycache__/
+HANDOFF.md
+.DS_Store
